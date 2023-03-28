@@ -1,0 +1,1 @@
+# vk-bot-paired-with-gpt-chat-and-wildberries
